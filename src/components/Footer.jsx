@@ -18,18 +18,14 @@ const Footer  = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">Контакти</h4>
               <div className="space-y-3">
-                <div className="flex items-center gap-3">
-                  <Phone className="w-5 h-5 text-blue-400" />
-                  <span>+998 90 123 45 67</span>
-                </div>
-                <div className="flex items-center gap-3">
+                <a href='https://t.me/m01_1010' target='_blank' className="flex items-center gap-3 hover:text-blue-400 transition-colors duration-300">
                   <MessageCircle className="w-5 h-5 text-green-400" />
-                  <span>@uzbekprawa</span>
-                </div>
-                <div className="flex items-center gap-3">
+                  <span>+421 91 550 99 88</span>
+                </a>
+                <a href='https://t.me/m01_1010' target='_blank' className="flex items-center gap-3 hover:text-blue-400 transition-colors duration-300">
                   <Send className="w-5 h-5 text-blue-400" />
-                  <span>+998 90 123 45 67</span>
-                </div>
+                  <span>+421 91 550 99 88</span>
+                </a>
               </div>
             </div>
             
@@ -44,20 +40,8 @@ const Footer  = () => {
                   <Clock className="w-5 h-5 text-blue-400" />
                   <span>Сб-Нд: 10:00 - 18:00</span>
                 </div>
-                <p className="mt-4 text-sm">
-                  Саппорт доступний 24/7 через месенджери
-                </p>
               </div>
             </div>
-          </div>
-          
-          <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 УзбекПрава. Всі права захищені.</p>
-            <p className="mt-2 text-sm">
-              <a href="#" className="hover:text-white transition-colors">Політика конфіденційності</a>
-              <span className="mx-2">|</span>
-              <a href="#" className="hover:text-white transition-colors">Умови користування</a>
-            </p>
           </div>
         </div>
       </footer>

@@ -2,17 +2,14 @@ import { CheckCircle, FileText, Home, Users } from 'lucide-react';
 
 const Solution = () => {
     return (
-        <section className="py-20 bg-gray-50">
+        <section className="py-20 bg-gray-50" id='more'>
                 <div className="container mx-auto px-4">
                   <div className="max-w-4xl mx-auto text-center mb-16">
                     <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-                      Черги в СЦ МВС? Тестування? Бюрократія?
+                      Високі ціни, довгі черги, складна бюрократія?
                     </h2>
-                    <p className="text-xl text-red-600 font-semibold mb-8">
-                      Забудь про це!
-                    </p>
                     <p className="text-lg text-gray-700 leading-relaxed">
-                      Ми допомагаємо отримати водійські права в Узбекистані – 
+                      Забудь! Ми допомагаємо отримати водійські права в Узбекистані – 
                       <span className="font-semibold text-green-600"> законно, швидко та просто.</span>
                     </p>
                   </div>

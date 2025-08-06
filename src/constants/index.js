@@ -11,31 +11,31 @@ import {
 } from 'lucide-react';
 
 export const steps = [
-    {
-      icon: <MessageCircle className="w-8 h-8" />,
-      title: "Ти зв'язуєшся з нами",
-      description: "Через Telegram або WhatsApp за 1 хвилину"
-    },
-    {
-      icon: <FileText className="w-8 h-8" />,
-      title: "Консультація та документи",
-      description: "Допомагаємо з підготовкою всіх необхідних документів"
-    },
-    {
-      icon: <MapPin className="w-8 h-8" />,
-      title: "Приїзд в Узбекистан",
-      description: "Організовуємо житло та зустрічаємо в аеропорту"
-    },
-    {
-      icon: <GraduationCap className="w-8 h-8" />,
-      title: "Навчання та оформлення",
-      description: "Проходиш навчання з нашою підтримкою"
-    },
-    {
-      icon: <Car className="w-8 h-8" />,
-      title: "Отримуєш права",
-      description: "Забираєш готові права та повертаєшся додому"
-    }
+  {
+    icon: <MessageCircle className="w-8 h-8" />,
+    title: "Ти зв'язуєшся з нами",
+    description: "Через Telegram або WhatsApp — відповідаємо на всі запитання"
+  },
+  {
+    icon: <FileText className="w-8 h-8" />,
+    title: "Консультація та документи",
+    description: "Готуємо пакет документів та реєстрацію дистанційно"
+  },
+  {
+    icon: <GraduationCap className="w-8 h-8" />,
+    title: "Теорія онлайн",
+    description: "Проходиш навчання та тестування з дому у зручний час"
+  },
+  {
+    icon: <MapPin className="w-8 h-8" />,
+    title: "Приїзд в Узбекистан",
+    description: "Організовуємо житло, зустрічаємо в аеропорту"
+  },
+  {
+    icon: <Car className="w-8 h-8" />,
+    title: "Практика та оформлення",
+    description: "Практичні заняття, складання іспиту, отримання прав"
+  }
 ];
 
 export const benefits = [
@@ -56,26 +56,8 @@ export const benefits = [
     },
     {
       icon: <HeadphonesIcon className="w-8 h-8" />,
-      title: "Саппорт 24/7",
-      description: "Живий саппорт та підтримка цілодобово"
-    }
-];
-
-export const testimonials = [
-    {
-      name: "Олександр К.",
-      text: "Приїхав на тиждень, все зробили! Тепер працюю водієм у Польщі. Дякую за професійну допомогу!",
-      rating: 5
-    },
-    {
-      name: "Марія Т.",
-      text: "Думала, що це буде складно, але хлопці все організували. Житло, переклади - все на вищому рівні!",
-      rating: 5
-    },
-    {
-      name: "Дмитро М.",
-      text: "За 10 днів отримав права! Без черг, без стресу. Рекомендую всім, хто втомився від української бюрократії.",
-      rating: 5
+      title: "Саппорт",
+      description: "Живий саппорт та підтримка щодня"
     }
 ];
 
