@@ -27,8 +27,8 @@ const Solution = () => {
                     </div>
                     <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300">
                       <Home className="w-12 h-12 text-orange-500 mb-4" />
-                      <h3 className="text-lg font-semibold mb-2">Житло та переклади</h3>
-                      <p className="text-gray-600">Організовуємо проживання та переклади</p>
+                      <h3 className="text-lg font-semibold mb-2">Житло та квитки на літак</h3>
+                      <p className="text-gray-600">Організовуємо проживання, трансфер з аеропорту</p>
                     </div>
                     <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300">
                       <Users className="w-12 h-12 text-purple-500 mb-4" />

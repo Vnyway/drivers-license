@@ -25,35 +25,12 @@ const Hero = () => {
                 animationFillMode: 'forwards',
                 opacity: 0,
               }}>
-                <a href='https://t.me/m01_1010' target='_blank' className="text-center bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
+                <a href='https://web.telegram.org/k/#8454890509' target='_blank' rel="noopener noreferrer" className="text-center bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
                   Отримати консультацію
                 </a>
                 <a href="#more" className="text-center border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300">
                   Дізнатися більше
                 </a>
-              </div>
-              
-              {/* Quick Stats */}
-              <div className="animate-fade-up" style={{
-                animationDuration: '0.8s',
-                animationDelay: '0s',
-                animationFillMode: 'forwards',
-                opacity: 0,
-              }}>
-              <div className="grid grid-cols-3 gap-6 pt-8 border-t border-gray-200">
-                <div className="text-center">
-                <div className="text-2xl font-bold text-blue-600">~2500€</div>
-                <div className="text-sm text-gray-600">Вигідна ціна «під ключ»</div>
-              </div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-blue-600">7-14</div>
-                  <div className="text-sm text-gray-600">Днів на оформлення</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-blue-600">Щодня</div>
-                  <div className="text-sm text-gray-600">Підтримка</div>
-                </div>
-              </div>
               </div>
             </div>
             
