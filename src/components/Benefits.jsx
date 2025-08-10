@@ -9,7 +9,7 @@ const Benefits = () => {
               Чому саме ми?
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Наші переваги, які роблять процес максимально комфортним
+              Ваш надійний партнер
             </p>
           </div>
           

@@ -24,7 +24,7 @@ const Footer  = () => {
                   <MessageCircle className="w-5 h-5 text-green-400" />
                   <span>+421 91 550 99 88</span>
                 </a>
-                <a href='https://web.telegram.org/k/#8454890509' target='_blank' rel="noopener noreferrer" className="flex items-center gap-3 hover:text-blue-400 transition-colors duration-300">
+                <a href='https://t.me/maksym_gvozd' target='_blank' rel="noopener noreferrer" className="flex items-center gap-3 hover:text-blue-400 transition-colors duration-300">
                   <Send className="w-5 h-5 text-blue-400" />
                   <span>+421 91 550 99 88</span>
                 </a>

@@ -19,7 +19,7 @@ const Header = () => {
             </span>
           </div>
         </a>
-        <a href='https://web.telegram.org/k/#8454890509' target='_blank' rel="noopener noreferrer" className="flex md:gap-[10px] group">
+        <a href='https://t.me/maksym_gvozd' target='_blank' rel="noopener noreferrer" className="flex md:gap-[10px] group">
           <img src="/telegram.png" alt="chat" className="size-[40px]" />
           <div className="flex flex-col group-hover:text-[#808080] transition-colors duration-300 justify-center md:justify-start">
             <span className="font-[700] hidden sm:block text-[18px] md:text-[14px]">Telegram</span>

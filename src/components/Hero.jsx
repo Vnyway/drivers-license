@@ -12,10 +12,9 @@ const Hero = () => {
                 opacity: 0,
               }}>
                 <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                  Хочеш права у Європі, але не знаєш,{' '}
-                  <span className="text-blue-600">де їх взяти?</span>
+                  Отримай водійські права в ЄС за 90 днів{' '}
                 </h1>
-                <p className="text-xl lg:text-2xl text-gray-600 leading-relaxed">
+                <p className="text-blue-600 text-4xl font-bold leading-tight">
                   Без черг, стресу та зайвої бюрократії – Узбекистан відкриває двері!
                 </p>
               </div>
@@ -25,7 +24,7 @@ const Hero = () => {
                 animationFillMode: 'forwards',
                 opacity: 0,
               }}>
-                <a href='https://web.telegram.org/k/#8454890509' target='_blank' rel="noopener noreferrer" className="text-center bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
+                <a href='https://t.me/maksym_gvozd' target='_blank' rel="noopener noreferrer" className="text-center bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl">
                   Отримати консультацію
                 </a>
                 <a href="#more" className="text-center border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300">

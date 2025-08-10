@@ -6,6 +6,7 @@ import Faq from "./Faq";
 import Footer from "./Footer";
 import Header from "./Header";
 import IncludedInPrice from "./IncludedInPrice";
+import FloatingContactButton from "./FloatingContactButton";
 
 export {
-  Hero, Solution, HowWorks, Benefits, Faq, Footer, Header, IncludedInPrice};
+  Hero, Solution, HowWorks, Benefits, Faq, Footer, Header, IncludedInPrice, FloatingContactButton};

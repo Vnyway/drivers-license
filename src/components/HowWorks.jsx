@@ -13,7 +13,7 @@ const HowWorks = () => {
                     </p>
                 </div>
                 <div className="max-w-6xl mx-auto">
-                    <div className="flex mdplus:grid flex-col items-center mdplus:items-start mdplus:grid-cols-5 gap-8  mdplus:justify-start">
+                    <div className="flex mdplus:grid flex-col items-center mdplus:items-start mdplus:grid-cols-4 gap-8  mdplus:justify-start">
                         {steps.map((step, index) => (
                             <div key={index} className="relative flex flex-col items-center mdplus:block">
                                 <div className="bg-blue-600 text-white w-16 h-16 rounded-full flex items-center justify-center mb-4 shadow-lg">
